@@ -8,12 +8,8 @@
 
 A simple calculator made with Flask.
 
-[![image](https://user-images.githubusercontent.com/71897736/113590421-794cea80-95e7-11eb-8184-9aedad42131b.png)](https://flask-calculator.ultirequiem.repl.co)
+[![image](![Calc](https://user-images.githubusercontent.com/88308874/210331705-792d6f64-a02f-47c0-9e15-10f35c2907ff.PNG))]
 
-## Demo
-
-Here is a working live demo: https://flask-calculator.ultirequiem.repl.co
-it runs in [Repl.it](https://repl.it).
 
 ## Development setup
 
