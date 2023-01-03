@@ -20,7 +20,7 @@ it runs in [Repl.it](https://repl.it).
 1. Clone the proyect
 
 ```bash
-git clone https://github.com/UltiRequiem/flask-calculator.git ; cd flask-calculator
+git clone https://github.com/yashgupta0707/PythonFlaskCalculatorApp.git ; cd flask-calculator
 ```
 
 2. Create a virtual environment
